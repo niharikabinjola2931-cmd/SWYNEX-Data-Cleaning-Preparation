@@ -1,0 +1,598 @@
+﻿patient_id,age,gender,state,bpl_card,insurance_type,comorbidity_count,prev_admissions
+31c9d6e6-9985-46eb-a069-932306dbb86c,95,F,Kerala,FALSE,ESI,6,2
+e3b8b34b-c6c4-4b75-a792-590bf6fe5f99,95,M,West Bengal,TRUE,None,2,3
+b7b5bccd-32ea-452e-8d26-ca20d63542ee,95,M,Maharashtra,FALSE,ESI,1,0
+80334fdf-9967-474e-a936-e69ca046938f,95,M,Karnataka,TRUE,ESI,0,0
+4048da80-efb5-481f-b85c-86c311d788ea,95,F,Karnataka,FALSE,Private,0,0
+fffede52-be46-4605-89df-0dd8df2e3ed7,95,M,Bihar,FALSE,None,3,0
+431e21e8-3af8-43af-8a7e-7e33fb165a81,95,F,Andhra Pradesh,FALSE,Ayushman,6,8
+9971f5db-44ca-4e7d-9906-ee41b852caa2,95,M,Maharashtra,FALSE,None,1,1
+befac59f-d0dd-4ba6-9bf8-76b46de6d82b,95,F,Kerala,FALSE,Private,0,0
+5606a1f3-1ad2-4755-a9fc-2fbf4fe91659,95,M,Uttar Pradesh,FALSE,Ayushman,3,2
+f005c59a-3ff1-4ecb-8744-fdbc10a3cb47,95,F,Uttar Pradesh,FALSE,Private,4,4
+446b2d25-8636-4780-b1ba-72392f23759b,95,F,Karnataka,TRUE,Ayushman,3,2
+cf772a0a-a8b8-4d6e-99c2-bf39f70f580e,95,M,West Bengal,TRUE,None,5,4
+a86427c8-a709-4edd-b521-aa57ccd20958,95,F,Kerala,FALSE,Ayushman,0,0
+4538b437-f35b-4760-bc2a-2bfa8625b886,95,F,Odisha,TRUE,Ayushman,2,4
+9eaffcb3-cf43-4794-b6c1-b195d9f4ac5a,95,M,Rajasthan,TRUE,Ayushman,3,1
+31cc43d3-9d02-4eba-854e-3d8a01e50a0c,95,M,West Bengal,TRUE,None,0,0
+6ffb7d09-1182-44e9-960c-33a21378683a,95,F,Karnataka,FALSE,ESI,4,1
+3ef50327-84a2-40d7-9dbf-528fdd80a0f5,95,M,Haryana,TRUE,None,4,1
+7a7a0cf8-2ea2-40cb-b310-f4ce0b744ea3,95,M,Maharashtra,FALSE,None,1,0
+e98b905e-007c-4c3f-a355-9efa74f1abfc,95,F,Maharashtra,TRUE,Private,3,3
+78efd2e5-f9f8-4f89-9446-e32ae3a2fe5a,95,F,Karnataka,TRUE,Ayushman,0,0
+e447c5d8-443b-47e4-8db2-f077559ed4e8,95,M,Andhra Pradesh,FALSE,Private,3,1
+f9430c2a-5dff-4c34-90f7-99530ab7622a,95,F,Rajasthan,TRUE,Private,0,0
+598df8bb-3303-427b-844f-27ecf7546e5c,95,F,West Bengal,TRUE,Ayushman,3,0
+03ab01f0-a83e-4fc4-9290-18f2403a315a,95,M,Telangana,TRUE,Ayushman,5,1
+9fe175a7-6eea-42b0-bc6e-1e63de4c5d52,95,Other,Punjab,FALSE,None,2,0
+bd8a9544-5839-4296-a297-02149f192db0,95,M,Bihar,TRUE,ESI,2,0
+a6fb60d7-ece8-4828-a2b0-a528bb74edbc,95,F,Haryana,FALSE,None,3,2
+599c20f8-4730-4e15-9858-a54c32c8e04f,95,F,Rajasthan,FALSE,Private,3,1
+293376df-c142-4a42-af0d-64f11baa8946,95,M,Maharashtra,FALSE,Ayushman,3,1
+6ce2d878-63fe-4b42-8ea5-407c770b7002,95,F,Maharashtra,TRUE,ESI,3,0
+8e4a7515-2bfa-4325-b69c-de0780f3945a,95,M,Odisha,FALSE,Private,1,2
+7ef2b060-4791-4297-b11e-919ad30c9ef6,95,F,Telangana,FALSE,Private,0,0
+b361d2f8-e89e-4a81-b081-7d1dd7b1fc10,95,F,Uttar Pradesh,FALSE,None,2,0
+2c34c371-48b5-4c81-a298-0261aa0271bf,95,F,Uttar Pradesh,FALSE,Private,3,0
+28ac9c82-b391-4909-9dc7-fc822ea6af04,95,F,Karnataka,TRUE,Ayushman,3,2
+a34f5acf-ccfb-4af8-b0bc-49f7f588eaaa,95,F,Tamil Nadu,FALSE,Ayushman,4,1
+362347eb-af5a-4767-9044-9519a67c739a,95,F,Andhra Pradesh,TRUE,None,2,1
+74468ccf-6444-4190-86f5-260c829bc359,95,M,Punjab,TRUE,Ayushman,3,1
+1a32953b-0d60-408b-83a2-19848435fc68,95,M,Karnataka,FALSE,Private,3,2
+c709dbae-ebf2-45cb-a45e-c3b60f898439,95,F,Tamil Nadu,FALSE,Private,2,2
+a6cb4f3c-8b7e-432f-9ce3-bcecad49e4c7,95,F,Maharashtra,FALSE,ESI,3,2
+2bac4dcc-d49e-4833-b80c-067d097070d3,95,M,Karnataka,FALSE,ESI,6,3
+00cdc581-135c-4bfd-b749-d531035e501d,95,F,Telangana,TRUE,Private,0,0
+49385225-0b1b-4bdc-bd59-e149e32aa4d6,95,M,Bihar,TRUE,None,4,1
+7c3a78e6-9507-4df4-ac96-31d5d85fc9b4,95,M,Tamil Nadu,FALSE,None,0,0
+d6d86f65-720b-4425-874e-223258abaab0,95,F,Odisha,TRUE,None,1,1
+0ca01e26-c6f3-48e0-bc31-bcb81f66caa0,95,F,Bihar,FALSE,ESI,4,3
+3995120f-349b-4ada-ae67-9a4003dd9e1e,95,M,Telangana,FALSE,Ayushman,3,3
+6e1b6915-8665-4329-8979-cf59125e935f,95,M,Madhya Pradesh,TRUE,Ayushman,4,6
+25b8d73f-6caa-4f62-b7ca-bdf2fefe487a,95,M,Bihar,FALSE,Private,6,4
+ab870272-e32a-4f2a-ad0f-cb6ecc964121,95,F,Uttar Pradesh,TRUE,None,0,1
+4c623095-0ad2-4bf7-b7d5-d08cc82af23c,95,F,Uttar Pradesh,FALSE,Private,2,2
+3df6caf1-e097-48fe-ac15-ff28221d1189,95,M,Haryana,FALSE,ESI,1,1
+5298c9fc-4a5f-4f77-9004-6ebc89bd8220,95,M,Uttar Pradesh,TRUE,Ayushman,1,3
+20f613fb-8aaf-448f-8dee-ab3c42c14a06,95,M,Telangana,FALSE,Private,5,1
+924d2275-146d-40b1-b092-19b01990787d,95,M,Kerala,FALSE,None,5,4
+95a999b1-9c70-4c17-8954-4705fed80bd9,95,M,Haryana,TRUE,Ayushman,5,2
+a651f0fc-0e3a-4803-89db-324e230a4339,95,M,Rajasthan,FALSE,ESI,3,1
+794952d0-61c6-4bf6-93c5-6e7d52fd65f4,95,M,Karnataka,FALSE,Private,2,1
+a0aa088b-065e-470f-adca-644f00c06189,95,M,Odisha,FALSE,None,1,0
+94eadb78-9b77-40a5-9812-65ce88384daf,95,M,Andhra Pradesh,TRUE,None,4,1
+1aa1f6db-302c-4538-8550-88a281944d0f,95,M,Uttar Pradesh,FALSE,Private,5,1
+d1d3a543-f984-4138-955e-d553fd4bf732,95,M,Bihar,TRUE,None,2,1
+4c5dbcd1-b827-48e9-91f9-ef114d345a03,95,M,Gujarat,FALSE,ESI,1,1
+b36f8d1f-062a-4cec-a6e6-67ad0bfe0457,95,F,Maharashtra,FALSE,None,1,2
+854fae2e-b2c0-4da4-846e-6756d1df03f6,95,F,West Bengal,FALSE,Ayushman,3,6
+255ab22a-e56e-40bc-9cad-e6900bcf69d9,95,M,Maharashtra,TRUE,None,5,3
+94acfd0f-dcc5-4494-bfb0-be8f99369a9f,95,F,Andhra Pradesh,FALSE,ESI,2,0
+3aa93ce0-6477-4d8b-a007-acebe12b6bc1,95,F,Madhya Pradesh,FALSE,ESI,1,0
+93e29838-b2b1-43e7-94ab-6d4ef23856dc,95,F,Tamil Nadu,FALSE,Private,0,1
+d9ca40b5-ab92-4e4b-ba5a-2eb157137773,95,M,Tamil Nadu,FALSE,Private,2,2
+87f6faca-05e9-4542-b803-3e344d64f90f,95,M,Tamil Nadu,FALSE,None,3,3
+f0bf4fc9-2e54-4b67-b597-67caeb79bede,95,M,Uttar Pradesh,FALSE,Ayushman,4,2
+c99ecd8c-6edd-416d-9ee2-062fbf684097,95,F,Tamil Nadu,FALSE,Private,2,2
+a01d0367-7599-47f9-9939-1aa874cda610,95,M,Telangana,TRUE,None,3,1
+8d6e8449-9a9f-46fd-b06f-3d753e0298ad,95,F,Maharashtra,FALSE,ESI,4,4
+636b0525-bd27-4600-919c-525af24d11c3,95,F,Tamil Nadu,TRUE,Ayushman,2,3
+0a5b2ba1-5949-473e-90bf-52f1ee6e2414,95,F,Gujarat,TRUE,None,3,4
+46173c21-6538-4f2d-966f-79d7364b68c9,95,M,Telangana,FALSE,None,1,1
+8da8cabd-0a25-494d-9877-424ea2053ffa,95,M,Rajasthan,TRUE,Ayushman,0,0
+da8523dd-7fab-46e3-9828-ca7bd080f8c9,95,F,Madhya Pradesh,TRUE,None,4,1
+d3ec4620-4014-476c-8966-470dc5595f5d,95,F,Telangana,TRUE,Ayushman,1,1
+9da21233-4721-4c86-875e-fe5c829b6d9a,95,F,Rajasthan,TRUE,Ayushman,4,3
+da42f842-ad14-4622-890c-e89d41559e41,95,F,Uttar Pradesh,FALSE,Ayushman,0,0
+492c38b0-7b29-49ea-b4f6-9fd4e485438f,95,F,Maharashtra,FALSE,Ayushman,4,1
+2d90ff31-551c-460d-bd8c-088e34ee96fc,95,M,Haryana,FALSE,ESI,1,1
+c50bd528-8fc3-4a42-852f-487f1b46b448,95,F,Punjab,TRUE,Ayushman,1,0
+0909f781-0f34-4ae2-885e-1faf737a4c79,95,M,Tamil Nadu,FALSE,ESI,6,4
+9b58cdbc-4b55-44e2-9bf0-79d5f464427d,95,F,Kerala,FALSE,None,0,0
+715c3f7a-0797-4843-bcf4-7faacd6d7ba9,95,F,West Bengal,FALSE,None,2,1
+510dec20-40b2-4014-a8ae-d2f5a6867f5b,95,M,Maharashtra,FALSE,Private,3,1
+28dbedc0-e6a7-4b6a-ba6f-83f7dc35901c,95,F,Maharashtra,TRUE,Ayushman,2,1
+136e6c08-529a-4060-a4ae-0ad851a8966a,95,F,Andhra Pradesh,TRUE,None,4,1
+d465a9f5-8150-4b7f-afb9-08378a62de9c,95,M,Tamil Nadu,TRUE,None,2,3
+c659337f-ce06-455f-b81b-25eabf02f4a8,95,M,Tamil Nadu,TRUE,Ayushman,0,0
+384b77f9-7f2b-4bf2-acf4-4326e6a97289,95,F,Tamil Nadu,FALSE,ESI,0,1
+1f1bb9c4-e810-4c44-86c7-3ad961364333,95,F,Gujarat,FALSE,None,1,1
+8bb4681d-d50c-40b3-aa67-3a8c2c22f29c,95,Other,Andhra Pradesh,FALSE,None,2,1
+b93fb665-b130-4c87-941e-d9e505be3cf1,95,M,Rajasthan,TRUE,Ayushman,1,0
+13b176fc-76f2-4b26-81c1-e6de704f0f6b,95,F,Gujarat,FALSE,None,2,1
+a0c00582-bc80-4faa-a6fb-14e5b797add9,95,F,Rajasthan,TRUE,Ayushman,6,1
+a6a8f6d0-9d07-4822-b2a8-3c3ffa8801ff,95,F,Uttar Pradesh,TRUE,Ayushman,3,1
+bf261168-b7a2-46fd-bf57-10b97c26cbd0,95,M,Tamil Nadu,FALSE,Ayushman,1,0
+bbeb1d29-016e-48cd-ae4f-aeff560e1a3b,95,F,Karnataka,FALSE,Ayushman,3,2
+d4eedbb6-b54d-4e7b-b0cb-a658ea5daa0a,95,M,Gujarat,FALSE,Private,1,1
+77698317-491c-4c62-ac02-b68be3ae4036,95,M,Madhya Pradesh,FALSE,Private,6,5
+f93df45a-915d-4f27-903e-71da809d7a46,95,M,Punjab,FALSE,None,3,1
+904972c5-6a34-45f2-a993-746204215c67,95,M,Odisha,FALSE,Private,3,5
+91bc6dba-e6ba-4cb0-bb5d-ecf8aa982298,95,F,Madhya Pradesh,FALSE,None,2,2
+a05236e9-82b0-44b6-ac47-e87a7e36738b,95,M,Rajasthan,FALSE,ESI,1,0
+8d3296a7-c1dc-4efd-8c67-1da398de2af1,95,F,Karnataka,TRUE,Private,1,1
+fba954fa-417b-4ec3-81aa-7d4417e12095,95,F,Odisha,FALSE,Ayushman,4,0
+f9922d63-ec5e-40e5-926f-30cb11741b28,95,F,Andhra Pradesh,FALSE,ESI,1,1
+1acbaaf0-86d3-4924-840a-acf6975b0c00,95,M,Andhra Pradesh,FALSE,Private,1,0
+e04282e8-4854-4eb8-b630-d7cbb3ed282e,95,M,Punjab,FALSE,None,2,0
+25820f01-6726-451b-84cf-b99efbcdb2c2,95,F,Odisha,TRUE,None,4,3
+fc602815-4fba-463e-b165-21c243d3e862,95,F,Bihar,FALSE,Private,4,2
+9ab866ec-3866-4516-9b17-c7500ebcb208,95,F,Andhra Pradesh,FALSE,ESI,5,1
+f7abac99-2d38-4619-9521-9373d7749d9c,95,F,Kerala,TRUE,None,2,0
+4dcb34b2-a885-4486-8a52-50f6c7a3e23e,95,F,Punjab,FALSE,Private,2,1
+3db54ebf-1827-4965-bc32-cdf03c6a333f,95,M,Uttar Pradesh,TRUE,Ayushman,1,1
+f2f669be-691c-40be-8256-404cc574716c,95,M,Gujarat,FALSE,None,1,1
+ddfefab9-5933-404c-b863-3c983c54e069,95,M,Andhra Pradesh,TRUE,Ayushman,4,5
+0c6e283f-e8d8-4e35-9280-1807c849235b,95,M,Telangana,FALSE,Private,2,2
+77a5214c-081d-48e2-8357-d511153c309d,95,M,Andhra Pradesh,FALSE,ESI,1,0
+8becc8bd-814e-4542-b6f7-7cf668425331,95,F,Rajasthan,FALSE,ESI,2,0
+490ea437-745a-4191-b395-64c5d7766ada,95,F,Karnataka,FALSE,Ayushman,1,0
+48415225-d585-4067-89be-5bb8679e8708,95,F,Uttar Pradesh,FALSE,None,2,0
+d1dcaa97-a7de-4295-a0b6-2db7f7306c9b,95,F,Andhra Pradesh,FALSE,Private,5,5
+e3fad280-162b-46b3-9b21-8520d7ba9359,95,F,Telangana,FALSE,Ayushman,0,0
+fd81ea17-3741-4734-9734-3358b89e5240,95,F,Tamil Nadu,FALSE,None,2,0
+b7a3e366-5da6-408e-9c44-a04f0ed5f720,95,M,Maharashtra,TRUE,Ayushman,3,1
+5a284a34-329b-4e44-b40f-8f2b9ebc13e5,95,F,Maharashtra,FALSE,Ayushman,3,0
+61c4a2aa-7607-43ae-8f4a-06ba810671f5,95,F,Uttar Pradesh,FALSE,Private,1,1
+2a5cfabe-2306-462d-afec-15465fbd36f6,95,F,Haryana,FALSE,Ayushman,2,0
+aa0bf322-0096-4907-af92-8c49e9a51243,95,M,Gujarat,TRUE,Ayushman,1,1
+b6b8fd92-fe58-4aea-aa5b-2bd2246dd097,95,F,Maharashtra,FALSE,Private,2,1
+2efc7bbb-b583-4a43-8d73-5fad63990362,95,F,Kerala,FALSE,Private,3,0
+8ace98ee-1a94-47ef-8555-7bc1d724f3ff,95,F,Uttar Pradesh,FALSE,Private,5,2
+c2fe8c25-ee79-4f43-a09b-e98ddac06472,95,M,Maharashtra,FALSE,Private,2,1
+91e8dde5-9ffc-4eac-9b32-62cd93d19d6f,95,M,Maharashtra,FALSE,None,2,2
+a4559cc4-73d4-4edc-a7eb-13dffde7b765,95,M,Andhra Pradesh,FALSE,Ayushman,4,1
+7ee1814b-b1f7-446d-bb01-ae5d689b364c,95,M,Odisha,FALSE,ESI,4,2
+c628004c-a3d9-4173-b933-03cb5f6924ce,95,M,Gujarat,TRUE,ESI,1,0
+67b144b6-7e4e-4286-b726-338cfb010cdf,95,F,Maharashtra,TRUE,None,2,0
+ade6afca-f874-47fa-994e-d9d57009e59a,95,M,Haryana,FALSE,Private,8,2
+83f5e3dc-a8b8-4434-812d-6e27a7b21754,95,F,Bihar,FALSE,Private,1,2
+5994d0ab-81d1-460c-be29-700b7332fcb1,95,M,Punjab,FALSE,None,2,1
+66ca2325-42cc-47dc-af4c-7a33490f7c4c,95,F,Gujarat,TRUE,Ayushman,3,2
+915162df-4694-4008-bcf4-cda1d55e8102,95,M,Maharashtra,FALSE,ESI,2,1
+ae4eff89-ca9d-4737-bcce-2d927b9e210d,95,M,Madhya Pradesh,TRUE,None,5,2
+d2720da2-7307-4a3c-8b6a-fd4f4e06b353,95,M,West Bengal,FALSE,None,5,2
+f09af3e9-4dba-4b0a-9ff1-025711d12366,95,F,Karnataka,FALSE,None,3,2
+01a97d45-5261-4b28-ac58-69e081cd030d,95,F,Telangana,TRUE,None,3,1
+db7b7abd-42e2-4bc4-bb0a-067db5ddd268,95,M,Karnataka,FALSE,Private,4,2
+9889dd7d-f287-474f-ae41-78ebdb2fcee7,95,F,Rajasthan,TRUE,Ayushman,3,4
+954712e4-b534-4ea8-9e61-d3aacd06bd1f,95,F,Madhya Pradesh,FALSE,Private,3,0
+aab21776-b8f2-4fb8-b902-e2e3f86f8441,95,M,Maharashtra,FALSE,Private,2,0
+6ee7e02b-90c3-4a9a-8d23-d5a48c995be6,95,M,Gujarat,FALSE,Private,2,3
+d8df2f23-626d-427d-bbd7-531997ae65b5,95,F,Haryana,FALSE,ESI,4,3
+59d70051-d29f-475f-b8c1-8f02864ec1af,95,F,Gujarat,FALSE,None,2,0
+8927411e-d6f7-4d2f-bc7f-5c9ba64d6b66,95,M,Tamil Nadu,FALSE,None,2,0
+a9403c2d-6e3e-4e05-89ec-5e597ebe8f47,95,F,Kerala,FALSE,Private,1,0
+6c6b6e06-1bc6-474f-999d-4059a0a6aec8,95,M,Karnataka,FALSE,Private,2,2
+59af95fa-8dae-4a6b-8b6a-7ee18194d680,95,F,Madhya Pradesh,TRUE,None,0,0
+d1a0ffe8-c5a8-4c47-91f9-6e4e66740a07,95,M,Karnataka,FALSE,Private,2,0
+a98ee09e-07e2-4440-9549-5924901104b6,95,F,Haryana,TRUE,None,3,1
+2082df85-7dd8-4083-8fb6-5c6314d0b3c8,95,F,Uttar Pradesh,TRUE,None,1,1
+706f3fb5-5f7d-4d29-9c7c-ac1c60de5f30,95,Other,Tamil Nadu,FALSE,Ayushman,3,0
+87dc32c6-a88f-4ba6-abeb-c1fcd563e72f,95,M,Karnataka,TRUE,Ayushman,2,1
+48d0a1ab-1e3e-46a1-8f56-f18fc7eee202,95,F,Uttar Pradesh,FALSE,Ayushman,1,2
+f91be81f-320b-459c-bc42-4a0052292939,95,M,Maharashtra,FALSE,Private,4,2
+97e0be10-5355-4856-838f-5a4343cc21dc,95,F,Karnataka,TRUE,Ayushman,2,0
+2e4b6d56-4887-40f3-824d-631450f12f43,95,F,Bihar,FALSE,Private,3,0
+4d98aa60-98aa-416c-b8ed-7edfb355ddb8,95,F,Kerala,FALSE,Ayushman,3,3
+704c47ef-f195-4818-bba3-8ab7827bf389,95,M,Tamil Nadu,FALSE,None,0,0
+2a8fa762-c37a-4617-b9d6-35869af7c521,95,F,Rajasthan,FALSE,None,1,1
+51346298-d90a-49be-b592-10b2ad9c9bda,95,M,Telangana,FALSE,Private,3,2
+fe0447ad-4973-4f84-a16d-e7c9a46456b9,95,M,Karnataka,TRUE,None,2,0
+d45d442c-daa4-424b-bebb-a2c4f561f477,95,F,Bihar,FALSE,Private,4,4
+f9b87330-5b99-4bdf-98b5-4deeda332a38,95,F,Uttar Pradesh,FALSE,Ayushman,4,1
+8c624953-6603-489d-88de-9b11c86282f3,95,M,Tamil Nadu,TRUE,Private,1,0
+6c3f8af9-89a6-4587-95ff-b3aa322ee6b4,95,M,Gujarat,FALSE,None,1,1
+5cfa5e59-2f66-48a1-b1c0-413867b268c5,95,M,Haryana,TRUE,Ayushman,1,2
+d9a57e07-e563-4b87-9340-00f82cf315c8,95,F,Karnataka,FALSE,ESI,5,4
+c9773b09-a068-400b-8b8e-4041d7e146a8,95,M,Uttar Pradesh,FALSE,Private,2,0
+c0085fa1-1506-4541-a49a-1779ce295e1c,95,M,West Bengal,FALSE,None,4,1
+a938ca8f-46a1-40ee-a862-0630310c86ca,95,M,Telangana,TRUE,ESI,3,3
+768087c5-c385-4b9c-ba1a-1569d6dbca11,95,M,Karnataka,FALSE,Private,2,0
+5ebbff58-c199-4194-bedd-91d0c8b6d54a,95,M,Telangana,TRUE,Ayushman,4,1
+e3fe3d7e-daab-4e76-8c8a-c3f2fda584c9,95,F,Maharashtra,TRUE,None,3,1
+25cf1300-6323-443f-8fe9-39c544a3546a,95,M,West Bengal,FALSE,Private,5,4
+3992f30b-919d-4a34-973f-617d2782835b,95,M,Telangana,FALSE,Private,3,1
+23065d2b-455c-47cf-8dd4-bf32af05b58a,95,F,Punjab,FALSE,ESI,3,3
+f32f2e11-d46f-4a07-a578-908cb6c1605c,95,M,Gujarat,TRUE,Ayushman,1,0
+6d7a8478-e185-44d8-94c4-6d901172454e,95,F,Telangana,TRUE,Private,3,2
+48cf7a1d-5a02-4cdb-8681-41d880c30c4a,95,F,Tamil Nadu,TRUE,None,0,0
+85b82610-8967-425b-b4ae-fe11ca141dee,95,M,Telangana,FALSE,Private,2,0
+e502ae3f-9d6e-47ee-89c1-236e26a7436b,95,F,Kerala,FALSE,None,2,0
+6147dd69-bbeb-47c8-99cc-e30467d17586,95,M,Maharashtra,FALSE,Private,4,1
+3340edb8-a308-4335-9a75-4e36d0e52f6d,95,F,Maharashtra,TRUE,Ayushman,1,0
+55980ff5-2573-4b34-a65c-7b40d16eea97,95,M,Telangana,FALSE,None,4,2
+09ecb1ed-47c1-4389-8120-cccc87de0c18,95,F,Punjab,FALSE,None,2,0
+ddfd3d9c-fa4f-4557-af91-e4a27b58a6dc,95,F,West Bengal,FALSE,Ayushman,1,0
+9e3bee4b-34fb-4eec-809b-6eca83e0e5dc,95,M,Punjab,FALSE,Ayushman,5,3
+e9ced7c1-0a0f-4536-85bf-f1eaaacdd59e,95,F,Rajasthan,TRUE,Ayushman,4,1
+76412ef1-48c1-4c49-beaa-e3084217255e,95,M,Uttar Pradesh,FALSE,None,6,3
+6dbb0f0b-d894-483e-b5ca-e21eba136bf9,95,F,Uttar Pradesh,FALSE,Private,1,0
+ffc6a445-a511-4a4a-9ee1-339bcf716aa0,95,M,Rajasthan,TRUE,Ayushman,2,1
+6354025d-2a71-4a89-a70a-0a022e9fed19,95,M,Madhya Pradesh,FALSE,Private,7,3
+4aa1f6e8-1919-48fd-b8f5-2af25c23833f,95,F,Haryana,FALSE,ESI,0,0
+4004e2f2-c45b-48b5-a931-622da52f9d84,95,M,Rajasthan,FALSE,Private,4,1
+951512d6-7f78-4653-b637-024df12855b9,95,F,Tamil Nadu,FALSE,Ayushman,1,2
+f8e19c86-416a-4e08-a425-07eb9fd5f6cf,95,M,West Bengal,TRUE,None,0,0
+c78cd9ae-508a-4878-af94-c6d53bd3d16a,95,M,Punjab,FALSE,Ayushman,2,3
+98bf548a-1db6-4846-9083-207d05478fe3,95,F,Rajasthan,FALSE,ESI,2,0
+34cdfdb6-cc24-4a25-91a5-39f592537fd6,95,M,Gujarat,TRUE,Ayushman,3,0
+1ccd194c-889e-4e5a-93ab-2331490e5ed6,95,F,Gujarat,FALSE,None,2,0
+1e243c13-5db5-49de-acec-14116a085c2d,95,F,Maharashtra,TRUE,ESI,5,3
+d81ed9bd-cfc5-4e87-a097-558f5b38d9c1,95,F,Punjab,FALSE,None,2,0
+8e4452ab-6e4d-400b-9819-00f3eff60733,95,F,Karnataka,FALSE,None,1,1
+942cf592-5b06-4216-ac1e-318ae0ba4d8f,95,F,Andhra Pradesh,FALSE,Private,2,0
+b4fbbfdb-f8f9-411f-8a45-bd93c9828c91,95,M,Telangana,FALSE,None,1,1
+9dfcba66-c2cd-42e4-906b-9f7284f6c8ba,95,M,Kerala,FALSE,Ayushman,4,3
+c7ed7e02-9afa-43ae-b810-5f0e59ff1945,95,M,Tamil Nadu,FALSE,Private,5,2
+b7249e04-4bdd-4f61-b857-ecfb0b12a62c,95,M,West Bengal,FALSE,Private,2,0
+c8e40ba9-d8d2-46e2-89f4-92bdff0b2638,95,M,Maharashtra,FALSE,Ayushman,2,1
+eee02ab6-909c-4c7e-b545-bdadec33a0a6,95,M,Rajasthan,FALSE,Private,5,3
+2823cb4b-f15f-44a4-a333-8f4a9ad041ce,95,F,West Bengal,TRUE,ESI,4,2
+a96ec14d-27ce-41d4-a878-0002c187fb1e,95,F,Karnataka,TRUE,Ayushman,3,0
+ed9adb72-0359-49ee-bb62-95e616c2c414,95,M,Andhra Pradesh,FALSE,Ayushman,5,4
+42855df4-9412-4590-8216-bece1a0441d2,95,M,Andhra Pradesh,FALSE,Ayushman,3,1
+f733e1a6-b723-49c5-a0d2-80a0e68f79b5,95,F,West Bengal,TRUE,Ayushman,1,2
+bd723dc3-3416-417a-8e6d-2dea18ce903e,95,M,Punjab,FALSE,Private,3,0
+5bc21d90-c066-4522-a79d-ebf5dd7694e1,95,M,Karnataka,FALSE,ESI,2,2
+1b9c0341-8e59-45df-b974-329d549893e8,95,M,Tamil Nadu,FALSE,ESI,2,1
+ee2e6069-bb5a-4ca6-8a55-f286c2ed9da3,95,M,Telangana,FALSE,None,0,0
+6f12d83c-dd22-421d-8518-c6f5f24bcb7a,95,F,Maharashtra,FALSE,None,0,0
+23e3b93f-2c16-450a-9ee9-beb944317adb,95,F,Karnataka,TRUE,Ayushman,7,4
+d0a40bb7-c69b-4b5c-b13c-69884ff08321,95,F,Rajasthan,FALSE,ESI,3,3
+69adc0c0-0a31-417f-98ea-2e594b1f0590,95,F,Odisha,FALSE,Private,2,0
+728c4ddd-a1aa-42ec-8f5d-bfa82e39174f,95,F,Tamil Nadu,TRUE,Private,1,0
+aa5e9bc6-e184-485f-b5e4-ae21c50406f4,95,M,West Bengal,FALSE,Private,7,4
+bb843637-35c0-43fc-95c9-d2379646edaf,95,F,Uttar Pradesh,FALSE,None,2,1
+80798ab6-717e-410a-a5d4-0644c070231f,95,F,Haryana,FALSE,ESI,2,1
+5bf48f90-b6fa-4711-aa0d-15d9210330b8,95,M,Gujarat,FALSE,ESI,0,1
+08f98c67-227e-4b8e-ae37-320ded3f8346,95,F,Uttar Pradesh,TRUE,None,3,1
+328ebf96-e8f6-42ea-9b08-a17630f811c2,95,F,Maharashtra,TRUE,None,3,1
+6848a849-930f-4600-b4b7-f7fd66de14c2,95,F,Uttar Pradesh,FALSE,Private,6,2
+53317f8c-baaa-4fa6-b15a-669ce87b2d35,95,M,Andhra Pradesh,FALSE,None,1,1
+26da4a84-de24-4d13-9b06-bbfcc0009784,95,F,Andhra Pradesh,FALSE,None,2,0
+eb371c48-fbb8-4602-a24c-10494be863a3,95,F,Uttar Pradesh,TRUE,None,5,5
+c87b6f36-e8d6-4173-87cf-3fe2f2fa9f0c,95,M,Karnataka,FALSE,Private,2,2
+3fcec3a5-4a2f-4017-ad90-e2de3c51d897,95,F,Tamil Nadu,FALSE,Ayushman,2,2
+0efbec33-eada-4745-a1bd-1058511a6b08,95,M,Bihar,FALSE,Private,2,0
+0e567837-11bd-4011-a29c-839e0075d2bd,95,F,Maharashtra,FALSE,Ayushman,2,1
+ea154a86-2a15-4a80-8d72-2e3456510f7c,95,M,Madhya Pradesh,FALSE,Private,2,1
+da5eb765-f4b9-4509-b1f7-8e8e229f353a,95,F,Maharashtra,FALSE,Private,3,1
+a9f90f0c-8de4-4467-baaa-ced5d37b8fcb,95,M,Odisha,TRUE,ESI,2,0
+8e7de9e0-bd79-4736-8948-4dd758113f6a,95,F,Uttar Pradesh,FALSE,Private,5,4
+46cc9630-730b-4518-b078-5c630a481f75,95,F,West Bengal,FALSE,Private,2,2
+5dc0c223-ff42-4e58-bcf1-10b4e532dd53,95,M,Haryana,TRUE,None,3,1
+69c1c197-44b7-4392-a03a-fe064a284159,95,M,Madhya Pradesh,TRUE,None,2,0
+d05d3fd8-825a-4f8c-978d-8387b2d77453,95,M,Gujarat,FALSE,Private,2,0
+3fea2705-18d7-4963-80c9-51474c300b1b,95,M,Rajasthan,TRUE,None,2,3
+2077b1d0-13fa-4ff0-8e7a-72599500c97e,95,F,Uttar Pradesh,FALSE,None,0,1
+e649190c-90a8-462e-9fd6-4d17320b6627,95,F,Karnataka,TRUE,Ayushman,2,3
+f8dd90d5-2e95-433d-8f02-a9b922b5afa8,95,F,Haryana,FALSE,Ayushman,1,0
+0a283835-3bf6-4b26-a121-5eb57dbc6436,95,F,Karnataka,TRUE,Ayushman,2,1
+d51d2289-160e-4450-91d4-28174ee9d045,95,M,Madhya Pradesh,FALSE,ESI,1,0
+13b4a3d7-9f82-43a0-82bf-3e0abb010e9e,95,M,Telangana,FALSE,ESI,2,0
+2fe20864-99ed-4244-981e-a889ddeb5f8d,95,F,Andhra Pradesh,TRUE,None,2,0
+f73b3a86-13bd-4222-b320-98dce873d706,95,M,Maharashtra,FALSE,Private,3,2
+b82aa0fe-38f4-4265-95c8-5f47040f3872,95,M,Gujarat,TRUE,ESI,3,0
+3346fef7-0145-4f51-8900-23fe6d800cf9,95,F,Gujarat,FALSE,Private,1,0
+6efd3056-91de-47b9-b000-006e4317234d,95,Other,Uttar Pradesh,TRUE,Ayushman,3,0
+935e0eb6-8283-4c15-8f5d-d033df76b700,95,F,Karnataka,TRUE,Ayushman,5,1
+50d7f16e-015f-4a0f-a939-24eb11a0a958,95,F,Tamil Nadu,TRUE,Ayushman,2,2
+be2b522f-5d32-418a-8018-8ae6a3c27020,95,M,Tamil Nadu,FALSE,ESI,1,3
+6f05ea20-40d8-4fd2-ae45-d41dc35a7872,95,M,Rajasthan,TRUE,Ayushman,4,1
+c7b064d6-9b78-4a6a-bdeb-6c98851ddef4,95,F,Tamil Nadu,TRUE,Ayushman,5,1
+57cc9b4e-ee1a-40c1-980e-654720828382,95,F,Maharashtra,TRUE,Ayushman,3,2
+0d536336-b548-4486-bc49-744567579f92,95,F,Uttar Pradesh,TRUE,ESI,4,3
+56811fd0-b580-4cba-9222-1c8f48adec38,95,M,Telangana,TRUE,Ayushman,3,1
+0128ef4d-d953-49ae-98ab-0f050cc981d2,95,F,Haryana,TRUE,ESI,2,0
+705d9135-b91c-4a4a-b874-e926f4b81883,95,F,Telangana,TRUE,None,1,0
+8419fa32-d03c-4d58-94da-932cc854cb1e,95,F,Maharashtra,TRUE,Ayushman,2,0
+529020db-bb94-4ae3-a0b7-1ee07ea62a44,95,M,Kerala,TRUE,Ayushman,4,3
+645e3363-ecaa-406b-b255-3b450f50b09e,95,M,Madhya Pradesh,FALSE,Private,3,1
+51b3c60d-eb08-40a7-bde4-19c315be03c9,95,F,Rajasthan,FALSE,Private,2,1
+e020942b-3dd1-4a0d-9594-48cda8fd2ebd,95,M,Punjab,FALSE,None,2,3
+2e272a9f-67bb-49f7-9ba1-41c89d11ab10,95,M,Tamil Nadu,TRUE,None,3,2
+8dd4f55a-1020-4384-952a-591d6f3c4e09,95,F,Telangana,TRUE,Ayushman,2,2
+dacc8842-d0a7-479e-8784-3ce30861d2c1,95,F,Telangana,FALSE,None,1,1
+7ee4a330-da4b-470f-a05d-5822a312a067,95,M,Tamil Nadu,TRUE,None,5,0
+e7a7c637-e000-409a-9a2d-52bd1d5ee43a,95,F,Odisha,TRUE,ESI,1,0
+fce9cc4a-f384-482f-ab33-76c5ea437385,95,F,Uttar Pradesh,FALSE,Ayushman,2,1
+9eff73c8-5603-4e4b-a3a7-a131dfca9e54,95,F,Uttar Pradesh,FALSE,Private,4,1
+773da067-6bb3-4d38-9457-d3dc4acc87cd,95,F,Maharashtra,FALSE,Private,3,4
+03af987d-44fa-49d7-98fb-0c329d1be54a,95,M,Andhra Pradesh,TRUE,Ayushman,1,0
+e284c4b6-4851-4e05-996d-a04d7fe35740,95,F,Kerala,FALSE,ESI,4,1
+6ea1f323-9fcf-4bc9-b3c4-662f4d3ab146,95,F,Odisha,TRUE,None,3,1
+1908575e-1414-4161-a27f-f464a123e99f,95,M,Gujarat,FALSE,Ayushman,3,1
+4d7c230e-580b-452b-b26e-e5aee1827d81,95,F,Odisha,FALSE,Ayushman,5,1
+7783dbb6-d6e6-491d-9835-face39376b7d,95,M,Maharashtra,FALSE,Ayushman,4,0
+413fb755-f270-4714-b22d-54b76f422cc9,95,M,Rajasthan,TRUE,None,3,1
+5416af53-a6b2-47b6-aef8-23842a716172,95,M,Bihar,FALSE,ESI,2,0
+efc613f9-8507-479c-a73a-c3e3f867b280,95,F,Punjab,TRUE,Private,0,1
+5f9207e4-0bcf-45c3-b011-a0b2ba061d24,95,M,Haryana,FALSE,ESI,2,0
+28e44c0a-7d17-408d-a8bd-3c6361e13cb6,95,M,Tamil Nadu,FALSE,Private,3,0
+346cf1cc-b422-487b-a1cf-15c4769a6891,95,F,Gujarat,FALSE,Private,4,1
+dd5755e8-e540-4ee4-8263-908dafe82b47,95,M,Telangana,FALSE,None,3,1
+2cc63716-3042-4a6a-abdb-f8da4b089232,95,F,Tamil Nadu,FALSE,ESI,2,2
+6ae41bb3-52b3-4533-9eec-f8a39509a9e0,95,F,Punjab,TRUE,Ayushman,3,1
+db7e8e58-0a72-4571-9913-3592ffb5281b,95,M,West Bengal,FALSE,Ayushman,1,1
+41b1fbd6-1c65-4717-921d-d0e2f0de2b41,95,M,Madhya Pradesh,FALSE,None,2,2
+cb815a5a-c5e5-4eb5-ae79-981662919455,95,M,Odisha,TRUE,Ayushman,1,0
+a0f4ef49-237c-4d5d-af5a-e12ca4ae2bdd,95,F,Kerala,TRUE,None,5,3
+f880f134-4f08-416e-9f7f-9097f5ac8426,95,F,Gujarat,FALSE,Ayushman,2,0
+28042afa-ca04-4cb5-a38a-a44219e2881f,95,F,Uttar Pradesh,FALSE,Ayushman,1,3
+83a54ba2-ea4b-4c06-9311-7a646f169df4,95,F,Gujarat,FALSE,None,3,1
+5d382bf9-34e7-4275-9e45-ebd4a0b5211a,95,F,Rajasthan,FALSE,Ayushman,1,1
+ad947823-3784-4879-aaf4-9d0530b2d397,95,M,Kerala,FALSE,ESI,1,1
+392c83bc-e73f-4711-952f-52ae2052eafa,95,M,Maharashtra,FALSE,ESI,1,0
+09cba2da-bec9-4211-85f4-1140fe2d7a19,95,M,Odisha,FALSE,ESI,2,1
+e5665145-d67d-4d3e-8397-36bb632c462b,95,F,Maharashtra,FALSE,None,1,0
+057b02a8-bb77-46c5-b36f-bc1242fe1bad,95,M,Andhra Pradesh,TRUE,None,1,0
+10beaef1-e6e6-4ddb-9aa2-0a9a3b81aa98,95,M,Maharashtra,FALSE,Private,4,2
+6829cb4f-a321-4c6f-8764-ae06d4c9b7b1,95,F,Karnataka,FALSE,Private,3,0
+5fde40a4-24ff-413f-947f-34fdf5b9207d,95,F,West Bengal,FALSE,ESI,1,1
+53d4f35d-8d6f-4d64-80b1-521bad64973c,95,M,Madhya Pradesh,TRUE,Ayushman,1,3
+4f60926d-7bb6-4230-96b9-011f7e9ccbd6,95,F,Madhya Pradesh,TRUE,Private,1,1
+968f6477-dd74-4942-b24d-fdf42c504a61,95,F,Haryana,FALSE,Private,0,2
+dd428b45-122c-42d4-a724-c69ee4ff50ad,95,M,West Bengal,FALSE,Ayushman,4,4
+4ac3f781-a752-477d-a328-aef2567d7ee7,95,F,Kerala,TRUE,None,4,4
+8eec9c02-184d-4f5c-bc93-5f1f6f61515b,95,F,Madhya Pradesh,TRUE,None,2,3
+385900c6-5fb9-4dd1-925d-c4899f05d86d,95,F,Punjab,FALSE,Ayushman,0,1
+8c56cd81-40ed-484d-a0cb-7d820d551746,95,F,Odisha,FALSE,Private,4,1
+80ff9c7a-1c84-49fb-ad5d-1555368adbd6,95,M,Madhya Pradesh,FALSE,None,1,1
+75f70f47-c65d-435a-8103-d19d7c8412ed,95,M,Uttar Pradesh,TRUE,Ayushman,4,4
+b8262763-ed82-42b5-89fd-83288036bf70,95,M,Tamil Nadu,TRUE,None,3,1
+a24c25fa-32f7-4096-9977-ecf2b7704432,95,M,Telangana,FALSE,ESI,3,2
+492858e4-056c-4ae7-bb93-b81997d2a952,95,M,Haryana,FALSE,Private,1,0
+d352c76d-ae0c-4372-950f-00ee89842695,95,M,West Bengal,FALSE,None,0,0
+5ad4a079-5ebe-477e-b4e8-b70a1f5a2a2b,95,M,Haryana,TRUE,None,2,0
+37baab3f-0c88-46d6-a9dd-45696a9ef154,95,F,Tamil Nadu,FALSE,Private,3,3
+f3591cc7-a111-43ec-a0ed-f5447a3320e5,95,F,Kerala,FALSE,ESI,3,2
+9599756d-3fbd-453c-8ef3-e4fde6681ce6,95,M,Telangana,FALSE,None,1,0
+6d1bb7b6-2a85-4571-9a9e-1d9a69b5ddb9,95,M,Rajasthan,FALSE,ESI,3,0
+01d5b306-90af-4e6d-893f-f219d198fa23,95,F,Andhra Pradesh,TRUE,None,7,1
+a32e8df2-9967-4787-bb67-6ca81fb5614d,95,M,Karnataka,FALSE,ESI,4,4
+63966be4-6af9-453e-9eb9-2b9b1971e328,95,F,Gujarat,FALSE,Private,4,0
+248c968d-1c99-4984-8475-9f09367b8811,95,M,Odisha,FALSE,ESI,3,2
+5a5fc0b1-f735-4666-b323-98c716eeb544,95,M,Gujarat,FALSE,Private,3,3
+58a92ef7-19cc-4015-a508-8aa48155bba6,95,F,Rajasthan,TRUE,None,3,1
+0497c26d-f189-4043-8fe8-99a0ffe6a5c3,95,F,Madhya Pradesh,FALSE,None,2,0
+27ca8e9e-014c-435c-97f5-89cbe1c1494d,95,M,Kerala,TRUE,Ayushman,4,0
+af79b029-68b3-4294-a326-b7e7f0616aca,95,F,Rajasthan,FALSE,Ayushman,3,2
+26253811-7b3e-47f7-b512-9073ffb6f0cc,95,M,Haryana,FALSE,Private,2,1
+de6e3258-2683-4237-8a71-3fc42fadc9bf,95,M,Bihar,TRUE,None,6,3
+3c5e112e-7a05-4a22-8825-25b5f9e16040,95,F,Haryana,FALSE,ESI,2,3
+22d8ea9f-a604-4afe-a23f-02f693d460cf,95,F,Gujarat,TRUE,None,3,0
+3ca0d722-047b-440f-b586-6b8d23cff9b1,95,M,Maharashtra,FALSE,Ayushman,1,2
+2a6124da-a252-428a-9ee1-194d41418dce,95,F,Tamil Nadu,FALSE,None,2,0
+a2539b97-693f-465b-a0d1-1d1ebb8f8af0,95,F,Odisha,FALSE,Private,0,0
+2a90460e-b709-4775-8b5a-27d7799f5f4f,95,M,Madhya Pradesh,FALSE,ESI,2,2
+aed2c8b4-f838-4375-9100-5db0d0c01062,95,F,Uttar Pradesh,FALSE,ESI,2,3
+5a83a0a3-7f49-4a8c-9d61-ff6c2a93f129,95,M,Gujarat,FALSE,Private,1,0
+64cf96eb-f2cc-404f-90ec-f7409f4d3f6f,95,F,Gujarat,FALSE,ESI,2,1
+eda18107-31ed-463f-9a8d-71577bb5599d,95,M,Punjab,TRUE,Ayushman,2,0
+fbdf2761-c773-467b-8a13-193163255c2b,95,M,West Bengal,FALSE,Private,1,1
+8bda98f6-9051-4d83-9a1a-a063124285a1,95,M,Tamil Nadu,TRUE,ESI,6,1
+f023027b-2ecf-4941-8218-d3357930d6e5,95,M,Maharashtra,TRUE,Ayushman,4,2
+46559ead-fdfb-4a47-a5cb-2128436d40bb,95,F,Odisha,TRUE,ESI,2,0
+eea05aa9-2bfb-44de-bae8-757d4a14413d,95,F,Telangana,FALSE,ESI,2,0
+312adf37-1338-4b51-b8e2-94b2f2cdd80b,95,M,Uttar Pradesh,FALSE,ESI,3,2
+e3c3d3c7-d287-44ad-bc3a-7860fb6ed300,95,F,West Bengal,FALSE,Ayushman,1,2
+8517d7c9-464a-493e-847b-7dbd0c0f4904,95,M,West Bengal,FALSE,Ayushman,1,0
+3cd937e0-2eb4-4972-b9aa-0c6c21f4685b,95,F,Maharashtra,TRUE,None,4,4
+dd03ccc6-df43-4cef-a448-e091bb004be4,95,F,Madhya Pradesh,FALSE,Private,1,1
+5f3c16b8-c9c2-4dca-b317-3c172e56a2cf,95,F,Haryana,TRUE,None,3,1
+27b36100-d4bb-40b5-ba40-16c9f4bea4a3,95,M,Andhra Pradesh,FALSE,None,3,2
+522c426e-70db-4553-8c71-abd6e2fd8a2c,95,M,Bihar,FALSE,None,2,0
+1fe31080-36c0-407e-81fb-6de1441b9800,95,M,Punjab,TRUE,Private,1,0
+bec9283e-21e7-4458-838d-588929c29b9c,95,F,Maharashtra,FALSE,Ayushman,1,0
+56ae7cad-b051-489b-a355-664d1a8a4efd,95,M,West Bengal,TRUE,Private,1,0
+25404911-a3a4-4631-8f17-d60aab271b36,95,M,Tamil Nadu,TRUE,Ayushman,5,2
+02a1e12e-2265-4cd0-91cb-a813b8fe29b0,95,M,Uttar Pradesh,TRUE,Ayushman,1,1
+5daf869c-a88f-47b4-98ee-2090e68c27dd,95,M,Andhra Pradesh,FALSE,Ayushman,1,0
+566cb46f-2c7e-4657-8b5d-9168bd7614b8,95,M,Gujarat,FALSE,Private,3,1
+cb11f6ab-9032-4dd8-b0ff-9027cf43682e,95,M,Karnataka,TRUE,Ayushman,1,0
+b0767659-681f-4448-9512-984b8ae4d3be,95,F,Tamil Nadu,FALSE,ESI,3,1
+b4290f2c-cf61-40fb-88b4-f7e25bfa7ff6,95,M,Karnataka,FALSE,Private,4,0
+7d8f6df2-b491-42c8-8660-2690ccc283bc,95,M,Andhra Pradesh,FALSE,ESI,3,1
+df67a9bc-8af4-4585-b4d6-d4b4f0e5d2ee,95,M,Maharashtra,FALSE,Private,2,1
+0c628401-f420-4739-a97d-0944d3b5d22d,95,F,Punjab,FALSE,Private,4,1
+0203647e-e3a4-4928-b7a8-4cad873251d7,95,M,Tamil Nadu,FALSE,Ayushman,1,1
+04bff08b-0450-4c2c-ab85-bb0d14ec481b,95,F,Bihar,FALSE,None,2,0
+4288ef12-0bea-4f72-849c-5878e31a5cdc,95,M,Gujarat,FALSE,Ayushman,2,2
+f2bb3c0c-7deb-48a5-9d30-911881e5d8b5,95,M,Bihar,FALSE,Private,1,1
+a1a47d8c-04a0-48a0-a02c-1da5044eb3fa,95,F,Uttar Pradesh,TRUE,Ayushman,2,0
+e679a327-b688-4252-8998-752b4f146cf5,95,M,Rajasthan,TRUE,ESI,3,1
+77fb8863-4cba-4973-bc05-7fe130a522f2,95,F,West Bengal,FALSE,None,0,0
+047378e5-cbe9-4b5b-8409-d4de3b9138ab,95,F,Maharashtra,FALSE,None,4,1
+c486c0b7-0f25-4c28-b153-1448cd58ae20,95,F,Telangana,FALSE,Ayushman,2,0
+00426594-afdd-4188-9244-ea4f0c0fa559,95,M,Uttar Pradesh,FALSE,ESI,1,1
+883591a8-9f04-469a-ae0a-2d34abb9bd97,95,F,Uttar Pradesh,TRUE,None,3,2
+438e3c52-1440-47c1-b57d-0bd839aff02c,95,F,Karnataka,FALSE,Ayushman,2,1
+2e3b0fd9-2b4e-4642-a617-b939990e7401,95,F,Bihar,FALSE,ESI,1,1
+80e81309-ecf2-44ce-adca-22b393e4c584,95,F,Tamil Nadu,TRUE,Ayushman,2,2
+f8395810-92ed-47f1-a971-0cfde2d8eb7e,95,M,Uttar Pradesh,FALSE,Private,3,0
+9327781b-d5eb-4423-b826-212be1c12104,95,F,Uttar Pradesh,FALSE,ESI,3,1
+342ece74-a8bf-46ec-8d05-e4cb44946782,95,M,Uttar Pradesh,TRUE,ESI,3,1
+302ccdc4-e9ab-4494-99a9-1f706fb30c89,95,F,Gujarat,FALSE,Ayushman,1,0
+af7599cb-eb96-4329-ac2e-7f75fcc2a7ad,95,F,West Bengal,FALSE,None,6,4
+bd33d4d9-a7e4-44ab-8502-b1a0d79ec287,95,M,Uttar Pradesh,TRUE,None,1,1
+411b9d9b-d1c0-421c-8f76-fe3205c7b313,95,F,Tamil Nadu,FALSE,ESI,4,3
+5ac70ce7-76d7-41d3-b590-910c52f59c24,95,M,West Bengal,FALSE,ESI,2,2
+c3f80b52-f618-4bc4-91fd-4d15a797e69b,95,F,Bihar,FALSE,None,2,1
+5403ac5d-b93b-4a3d-9c6f-235f6d7c8619,95,M,Uttar Pradesh,FALSE,Ayushman,4,4
+d515e299-fc00-4c46-a8b9-f993e4a350a6,95,F,Bihar,FALSE,Private,1,3
+54b0cbd9-d183-482d-8fa7-a829da143f77,95,M,Andhra Pradesh,TRUE,None,3,0
+f2db08f3-479b-4341-adab-eaa15dda3adc,95,M,Kerala,FALSE,ESI,1,1
+c633b3d7-aab8-41bb-a82c-e2df1175fe13,95,F,Kerala,TRUE,Ayushman,5,1
+27f746f7-2e92-49a3-ae79-4254b66815c3,95,M,Kerala,FALSE,None,4,1
+508891e4-2906-4e12-82bd-de5d9e786a29,95,F,Maharashtra,FALSE,ESI,2,2
+e7261424-3f8c-4d41-a7af-f92ced6f7dde,95,M,Bihar,TRUE,ESI,3,5
+a173affe-68b7-45a9-bf72-0b5264456917,95,M,Tamil Nadu,TRUE,ESI,3,2
+72014375-ca65-4c06-852c-8ecd12c17367,95,M,Rajasthan,FALSE,ESI,3,1
+038ca8fc-5415-4060-b76b-0f8b642c50cc,95,F,Maharashtra,FALSE,Private,5,1
+2038e8dd-a011-48e3-8d21-bad460da439c,95,F,Uttar Pradesh,FALSE,Ayushman,1,1
+4a81c9d2-6275-4738-a979-f8abeede4568,95,M,Odisha,TRUE,Ayushman,4,3
+4ae4bf2b-2bf9-4b1e-92f4-36902b9ee5f8,95,F,Odisha,FALSE,Ayushman,1,2
+9aac9f73-c1a6-4fca-9b40-84ce8f8244e0,95,M,Haryana,FALSE,Private,1,1
+95296842-c7d2-4534-86c4-a658cc5ab513,95,Other,Maharashtra,FALSE,Private,3,1
+6c004854-7b78-4f7a-8cb0-f035c0590848,95,M,Karnataka,TRUE,Private,2,2
+7d61a994-4d0b-4a5e-8f7b-526f29149f23,95,F,Haryana,FALSE,ESI,1,0
+30e2d581-2468-429c-8842-204d4a6938cf,95,M,Kerala,FALSE,None,2,0
+b747f8f3-5656-4598-aa71-6bf2fafec0e8,95,M,Gujarat,TRUE,Ayushman,3,1
+858e7f51-4717-40d9-a42b-727eb24ac6f0,95,M,Tamil Nadu,FALSE,ESI,1,0
+d4a073f9-6cc0-4953-905b-117ee245f59f,95,F,Bihar,TRUE,Ayushman,2,1
+e0ed666c-b29d-475a-ab00-d10b6f601036,95,F,Uttar Pradesh,TRUE,None,2,2
+336481ea-90f5-4f24-af69-9c78f5de6b45,95,M,Madhya Pradesh,FALSE,ESI,3,1
+8d74b7df-9926-4165-8850-4f7d6d37d064,95,M,Karnataka,TRUE,Ayushman,5,3
+1030aa0a-afd0-4c77-917b-5ec4075daaf7,95,F,Uttar Pradesh,TRUE,Ayushman,2,0
+db0275ae-bffa-43b9-8dc7-a99638047d7e,95,M,Uttar Pradesh,FALSE,None,5,4
+b6ed4f48-b0d7-4214-896e-7247aec9038a,95,F,Punjab,TRUE,Ayushman,4,4
+8ad0b4fd-9c3a-4da0-8d6a-446356fe7515,95,M,Tamil Nadu,TRUE,None,4,1
+30872af4-e8c0-4b8b-94a8-8f722d255579,95,F,Punjab,FALSE,Ayushman,3,3
+7b21f8c2-fe53-4745-8ede-01f0f0966631,95,M,Karnataka,FALSE,ESI,4,0
+029022ab-1fc8-41d4-8a74-e87495f9303a,95,F,Kerala,FALSE,Private,4,3
+e580c035-18a0-493f-b7d0-880ebcf795de,95,F,Maharashtra,TRUE,Ayushman,4,1
+55c8a1b6-ffad-4cca-9640-2a2944dbe0d5,95,M,Andhra Pradesh,TRUE,Ayushman,6,1
+67ae07be-632a-4431-85ee-e97c7fbd336c,95,M,Punjab,FALSE,ESI,1,1
+36061689-913e-4038-9e95-878220b8c6d4,95,F,Maharashtra,TRUE,ESI,2,0
+14b0b5e9-73c1-41ae-bce2-b9fc5bfc4624,95,M,Uttar Pradesh,FALSE,ESI,1,0
+2260ddc6-c0fe-40f3-9134-0e47f721a833,95,M,Uttar Pradesh,FALSE,ESI,5,1
+f5888024-63a3-44ac-b987-b5651cfd84c7,95,F,Uttar Pradesh,FALSE,Private,0,1
+25db37fb-e559-4491-aab5-f3a9d8d5b6ad,95,M,Uttar Pradesh,FALSE,None,2,0
+00886f58-ff80-4172-9de3-c39b5e66cfcb,95,M,Karnataka,FALSE,ESI,6,0
+82d05919-f660-4e32-906a-aab61f662dc9,95,F,Telangana,FALSE,Private,2,0
+1efa57ad-ecdd-4cba-8b69-db22498163a8,95,F,Maharashtra,TRUE,Ayushman,3,0
+a92fbd39-2077-47d1-bc67-ae54dd20645d,95,F,Andhra Pradesh,FALSE,None,3,0
+05884a74-7cc2-42ae-865c-f56b976fa8f7,95,M,Kerala,TRUE,Ayushman,2,0
+62f3fc11-3561-4bd3-9ece-105b71560b54,95,M,Tamil Nadu,TRUE,Ayushman,2,1
+938c3ef9-ce0e-419e-9178-92b75d0820f0,95,F,Odisha,FALSE,Private,3,0
+632606f2-570d-472b-b704-cafc8d731fbc,95,F,Gujarat,TRUE,Private,4,2
+70d128d3-1407-44ab-8d73-2b8840ebecc2,95,M,Telangana,TRUE,None,2,0
+cf1f45ed-2c5e-4c32-a985-702ffcadea2e,95,M,Rajasthan,FALSE,None,1,0
+330e8291-efcc-445c-816e-e062a9a5a039,95,M,Gujarat,FALSE,Private,3,1
+ce57fc4a-b456-45e0-ba4f-d020f57c918c,95,F,Telangana,FALSE,Private,7,3
+2b32d5f5-3545-493f-bc3c-b0861172b2f8,95,F,Madhya Pradesh,TRUE,Ayushman,3,1
+701c832c-d842-4f56-8e51-28cb863d7535,95,F,Andhra Pradesh,FALSE,None,2,2
+b637fcd0-7852-46b6-a7d4-9ea9512a63b3,95,F,Telangana,FALSE,None,3,0
+2355cd00-c7b7-419b-9887-14793ed05500,95,M,Gujarat,FALSE,Ayushman,1,1
+df408415-3709-45b4-ba42-44e2123c169b,95,M,Gujarat,FALSE,ESI,4,0
+c63da183-a972-4ad2-ae86-273227cadde8,95,F,Maharashtra,TRUE,Ayushman,3,0
+4cf1d03a-76a6-452a-831b-0dfe6d38b707,95,F,Gujarat,TRUE,None,2,2
+b77f4997-3dbe-4c8a-863a-4a999e7c618f,95,F,Tamil Nadu,FALSE,Private,3,1
+8591bd3b-bed9-4370-8b8e-491cd213876a,95,F,Rajasthan,FALSE,ESI,3,3
+bb6e0cc8-e81b-46d9-8218-b429764bda5a,95,F,Madhya Pradesh,TRUE,None,2,2
+29524e89-3853-4fd8-951a-46cda712def6,95,F,Andhra Pradesh,TRUE,Ayushman,2,0
+35dc12b8-c3f8-459f-81a3-eff7c4fe39f8,95,F,Uttar Pradesh,FALSE,Private,1,1
+a7d80e15-e4fc-4a8f-973f-2cdcbf12ecdc,95,F,Karnataka,FALSE,None,2,1
+b4eda18d-ee4b-4deb-ba39-b1b77f93c7b0,95,F,Telangana,TRUE,Ayushman,3,1
+9b5aa702-d1ca-44a0-ba2f-44f77b86da41,95,F,Telangana,FALSE,Private,2,2
+3e16dbf8-221a-4785-95b5-1d4398870ea2,95,M,Karnataka,FALSE,Private,5,3
+4f28e6b6-7e15-4fe4-b82f-4f74e7d32bd3,95,M,Uttar Pradesh,TRUE,None,2,1
+b557cdd9-6d2b-4cab-9ef9-4fb3c239a5e1,95,M,Andhra Pradesh,FALSE,ESI,5,1
+ffb4272d-4f8f-4702-ac4d-bad14a0048c9,95,M,Kerala,FALSE,Ayushman,3,2
+803b021a-b382-44f4-a8b0-a9013b1dd989,95,M,Andhra Pradesh,FALSE,Private,2,1
+5c2b6e0e-81a2-4189-b4a2-977a60c407e6,95,F,Karnataka,FALSE,Ayushman,5,0
+d3389228-59c3-4d10-abcf-3f94ed4658bd,95,F,Maharashtra,TRUE,None,3,0
+3a7278a5-a19f-47aa-b407-014588101cb5,95,F,Telangana,FALSE,Ayushman,3,1
+e6e691d0-c443-425f-8e03-67f7e5d89be4,95,F,Telangana,TRUE,Ayushman,5,2
+abbfb59d-9f42-414c-bec4-1e39f8932ab9,95,M,Maharashtra,FALSE,ESI,3,1
+a23dd0d9-311c-44a7-93a5-8edcdab85f2e,95,M,Maharashtra,FALSE,Private,2,4
+9d234e3d-8757-40ca-a634-e6871d0ee862,95,M,Madhya Pradesh,TRUE,ESI,3,3
+70d969b0-49e5-419d-9708-3934e1a1bcec,95,M,Maharashtra,FALSE,ESI,4,2
+b2527e17-c5d9-46cf-b251-73897cf514c9,95,M,Haryana,FALSE,ESI,1,0
+310ff45b-56df-4254-8382-f9ded1cd48e6,95,M,Maharashtra,FALSE,Ayushman,1,2
+a7f93b39-21ea-4727-ae4d-9b29f353fb63,95,F,Karnataka,FALSE,None,7,5
+abd48ada-39a0-4e2b-a2a1-caf0a1810687,95,F,Kerala,TRUE,Ayushman,8,1
+0eaadb76-cdf9-473c-b385-8282f3a0e026,95,M,Uttar Pradesh,FALSE,Private,2,0
+1d140db0-7116-4a74-97f3-739b2645cbc9,95,M,Odisha,FALSE,Private,1,3
+05a7eb86-b384-4e09-b148-3a67daa6ec31,95,F,Andhra Pradesh,FALSE,ESI,3,0
+c468d78a-769f-4762-945f-8a08e996ca7c,95,F,Karnataka,FALSE,Private,3,1
+fd38dd2f-ff23-4692-a161-02df54848676,95,F,West Bengal,FALSE,Private,3,2
+11474530-429f-4b42-ab6b-bf7c8d5dd1df,95,M,Karnataka,FALSE,None,0,1
+d87eb7d6-68cb-4e18-a9af-a4f2dbebaf10,95,F,Madhya Pradesh,FALSE,Private,3,0
+b3ca5ff2-2dde-49c4-a68a-bff7fe5937da,95,M,Telangana,FALSE,None,5,1
+891a99f9-3263-4020-810d-2ad814a01547,95,F,Kerala,FALSE,None,5,4
+3429f9ca-8dcf-4476-9307-f119fbb542d3,95,F,Gujarat,TRUE,None,0,0
+65733123-6237-45f3-9352-d3aeb81e4858,95,F,Bihar,FALSE,Private,4,5
+e86c5f48-b802-44b1-850e-7bd5fe1a1e83,95,M,Haryana,FALSE,ESI,2,2
+da164281-a097-400e-9b9f-2499e26d84d5,95,F,Telangana,FALSE,Private,4,5
+05d0532a-2503-4b36-b302-ab01af15773c,95,F,Andhra Pradesh,FALSE,None,4,0
+25229a85-6901-4dee-9942-251f62a97476,95,F,Karnataka,TRUE,None,3,4
+11142600-c249-4f82-8343-041f9ecf21a5,95,F,Uttar Pradesh,TRUE,None,4,3
+507c3603-fda5-463f-880c-952436f38495,95,F,Andhra Pradesh,FALSE,Private,0,1
+8942ab8f-1f02-404a-8a11-370989868ce4,95,F,Bihar,FALSE,None,2,1
+9e355e87-ed37-4889-b02c-9985fd9d0fbd,95,F,Uttar Pradesh,FALSE,Ayushman,3,3
+1f77325a-ac45-44ae-8516-d7ab5ad5e28b,95,F,Bihar,TRUE,Ayushman,2,1
+4579abe0-e16a-438d-b960-eeedc0798a1b,95,F,West Bengal,FALSE,None,2,1
+af9abce4-6057-41eb-9ae2-f39ab0fc5762,95,M,Rajasthan,FALSE,None,2,3
+88a60976-7b21-4875-a361-5cc26b17ae13,95,M,Uttar Pradesh,TRUE,Ayushman,2,2
+6107b053-6175-445b-8310-dbc470c9ff0f,95,F,West Bengal,TRUE,Ayushman,4,4
+8cc9ebb1-0d15-468f-98e9-1543a2c1693f,95,M,Telangana,FALSE,Private,2,0
+efa2a646-500d-43a1-a168-5ccd5329f70c,95,F,Uttar Pradesh,FALSE,Private,2,0
+5e9ccd5b-aa9f-4414-b3cf-013318781809,95,F,Andhra Pradesh,TRUE,Ayushman,3,2
+29bfa124-6ade-4449-ae39-29a941c2de7c,95,F,Kerala,TRUE,None,4,2
+08bc3578-6700-4029-aa45-1f636f2dc204,95,M,Maharashtra,FALSE,Private,3,3
+51a7f1bd-0f94-4089-8cf2-c99d1b23c0f2,95,F,Bihar,FALSE,ESI,0,0
+459a411c-3619-45d7-8199-5e7821124fab,95,F,Kerala,TRUE,Ayushman,2,1
+ddf68012-922f-420f-b5c1-21267e6ac675,95,M,Karnataka,FALSE,Private,3,2
+75fa5ce4-31a6-4ea2-b5b1-8cb058a78f6d,95,F,Tamil Nadu,FALSE,Private,1,1
+f77d9f24-ffb6-42a4-a471-78174963aa0b,95,M,Madhya Pradesh,FALSE,None,2,1
+e307847e-3d8e-45bb-b341-8e39e4db8dc7,95,M,Rajasthan,FALSE,None,4,2
+63221b70-f971-4972-bc25-370e079c4988,95,F,Kerala,TRUE,None,3,0
+1338ebfa-2138-4606-9782-7d142b4e96f6,95,F,Telangana,FALSE,Private,2,2
+189330e2-31b0-4751-9480-0ab7d0229782,95,M,Uttar Pradesh,FALSE,None,2,2
+d49ee01e-8487-4efa-9b08-3093d05e2d38,95,M,Kerala,TRUE,ESI,6,1
+94771452-f556-4834-993b-8ba7e039d878,95,M,Telangana,TRUE,Ayushman,3,0
+57f62456-4758-4a52-b8ac-2c75b3e6b951,95,F,Kerala,TRUE,ESI,5,2
+a2d5d1d6-c8f6-4d0c-a940-8880c6614b47,95,F,Bihar,FALSE,Private,3,1
+8d0dd8f1-4cca-4c77-bb44-4004a02c2f67,95,M,Bihar,FALSE,Private,4,3
+6d3cfdd2-177e-400c-8861-debe1f803f7a,95,M,Punjab,TRUE,Ayushman,2,1
+dddfe266-8d5e-43db-8c78-be17a709f77d,95,F,Karnataka,FALSE,ESI,7,2
+2f91457b-00d7-48a2-97a3-cd1ff9da7f73,95,F,Madhya Pradesh,FALSE,None,2,2
+1c398838-353e-4af1-b602-32484ddcbc9a,95,M,Uttar Pradesh,FALSE,ESI,1,0
+b89a86f4-0a94-44b4-88b4-e9f9acdf9d4d,95,F,Madhya Pradesh,FALSE,ESI,1,0
+14e22a3a-e686-4a19-b3fd-054059225e0c,95,M,Andhra Pradesh,TRUE,Ayushman,2,0
+67e1d53d-4a19-4b4a-8c6c-ee81ffe9e6dc,95,F,Haryana,TRUE,Ayushman,0,0
+89afbd71-c8e6-4b16-bdbb-647a7481f3ad,95,F,Madhya Pradesh,TRUE,None,2,2
+9a9d6691-5ef5-4b40-b267-b53e1df72fea,95,F,Uttar Pradesh,FALSE,Private,2,0
+80f34434-68a4-4ecf-ba5e-754e0b8f8254,95,F,Odisha,FALSE,ESI,5,1
+5221e89f-5613-445e-b75e-5af1bfbe9ba8,95,M,Andhra Pradesh,FALSE,Private,2,0
+31f32504-ad8e-4777-b11a-2d6f50aa755c,95,M,Uttar Pradesh,FALSE,Ayushman,1,0
+25720faf-77b8-4276-939c-9fc0e2613b1e,95,F,Karnataka,FALSE,None,1,1
+bc966aac-e07b-46c6-9029-4f067f6c868a,95,F,Rajasthan,FALSE,ESI,2,1
+620148ec-b45a-45db-a2f8-37b6d9be864d,95,M,Maharashtra,FALSE,ESI,5,2
+78301616-02f3-4287-9403-31ad527141c7,95,M,Bihar,FALSE,Private,4,4
+b7d4af20-ddb3-4e3d-8cf9-b19641e663a3,95,F,West Bengal,TRUE,Ayushman,3,0
+6311dcc3-59cc-4f45-a4c0-4611ba55bb64,95,M,Andhra Pradesh,FALSE,None,1,2
+5d7dfd63-f8a6-4f48-9bc2-b45d11335e8a,95,M,Maharashtra,FALSE,Private,3,1
+be561b02-1f64-430d-8f2e-f0e55e5a8fca,95,M,Gujarat,FALSE,None,2,1
+b8cac9fe-0cb2-4ef4-a939-cd49cd60dce8,95,F,Gujarat,FALSE,Private,1,1
+e1fd0ca9-9288-4d12-b00f-bd7222ab5b8a,95,M,Gujarat,FALSE,Private,2,1
+a3b7c312-b593-4d28-8426-76ac638b2086,95,M,Andhra Pradesh,TRUE,Ayushman,1,0
+f0c28d4f-ea0d-4a0e-8fe3-6b479d72e70a,95,F,Telangana,TRUE,None,4,2
+fdfc6963-aef3-481b-81fd-e5ccfd0504d7,95,Other,Odisha,TRUE,None,4,1
+642fc9c9-92bb-47e3-94fc-d5ea88ad945a,95,M,Karnataka,FALSE,None,0,0
+d13a3270-26ad-45a6-ade7-16a36039cb0f,95,M,Karnataka,FALSE,Private,2,2
+2e260ead-da60-47ed-821d-ce5c5de579c6,95,M,Gujarat,FALSE,Private,3,1
+3d9b64c4-799b-47ed-bae2-616c80c00f76,95,M,Telangana,FALSE,ESI,3,1
+47c2201d-066d-4687-9870-7a7c20a2bdaf,95,M,West Bengal,FALSE,Ayushman,4,4
+656766f9-4c40-4ca1-ae5b-81228b89cb1d,95,F,Tamil Nadu,TRUE,Ayushman,0,0
+7a1bd397-18ed-43c0-9ea1-68335136b2ad,95,M,Maharashtra,FALSE,None,5,1
+9438fbeb-5264-48bf-9175-810cfcc81385,95,M,West Bengal,FALSE,ESI,3,2
+87b6bd4c-3177-417c-bebf-00a04615b619,95,M,Telangana,FALSE,ESI,4,0
+86d9110e-2cca-41fb-80e2-344e89b25213,95,F,Haryana,FALSE,Ayushman,5,3
+d9f773a8-8276-4b9d-b4ff-771b00c6589a,95,M,Kerala,TRUE,ESI,3,0
+3a961599-be7d-47b7-abdd-70e4794ec862,95,M,Kerala,TRUE,Ayushman,4,2
+cebdea42-02d8-4811-9061-099b881fc4e3,95,M,Bihar,FALSE,None,1,1
+701c7419-ac25-4e9d-b1d1-bad9c2a09c07,95,F,Madhya Pradesh,FALSE,Private,6,3
+b8f1c1df-1a3c-4b10-9c6f-9fcb468c149f,95,M,Kerala,TRUE,Ayushman,2,0
+a33bdbaf-ad2d-4149-99eb-2a8128b6509c,95,F,Karnataka,FALSE,None,1,1
+4217811e-b8cd-4964-84b9-7f28bae1f6a8,95,M,Karnataka,FALSE,Ayushman,1,1
+3e4c3a1b-c124-4387-8cc1-4a6f74e336c6,95,F,Uttar Pradesh,TRUE,ESI,0,0
+e2dc811b-d16d-4b8b-b345-048cf07bd5c2,95,M,Kerala,TRUE,ESI,2,3
+00f75b2d-2ee2-4020-8922-3a313f44e2b0,95,M,Tamil Nadu,TRUE,Ayushman,4,2
+446a4d3d-c757-4106-ba1c-2e4580cc09ab,95,F,Gujarat,FALSE,Private,2,0
+b0c34c1c-4bed-46eb-9533-948fa75088c9,95,M,Haryana,TRUE,None,0,0
+7c6c5b82-0152-4ab9-85b8-35af7b00ad93,95,M,Karnataka,FALSE,None,5,0
+1294a6d7-c965-4c81-b26c-178e61cd14a9,95,F,Andhra Pradesh,FALSE,None,2,3
